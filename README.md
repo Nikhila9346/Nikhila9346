@@ -1,4 +1,4 @@
-<h3 align="left">Hey hi👋! My name is Nikhila, a Python Full Stack Development Trainee</h3>
+<h3 align="left">Hey hi👋! My name is Nikhila, a Python Full Stack Developer Trainee</h3>
 
 ###
 
