@@ -43,7 +43,7 @@ I'm a QA Engineer passionate about building reliable, efficient, and scalable so
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://www.youtube.com/@GlancEd-no7g">
+<a href="https://www.youtube.com/@GlancEd77">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 
