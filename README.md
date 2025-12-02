@@ -1,12 +1,6 @@
 # 👋 Hi, I'm Nikhila Reddy  
 ### **Software Engineer (QA)**
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Nikhila9346&color=blue" alt="Profile Views"/>
-</p>
-
 I'm a QA Engineer passionate about building reliable, efficient, and scalable solutions through automation and web development.
-
 ---
 
 ## 🔧 Tech Stack
