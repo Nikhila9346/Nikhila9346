@@ -1,9 +1,11 @@
 # 👋 Hi, I'm Nikhila Reddy  
 ### **Software Engineer (QA)**
 
-I'm a QA Engineer passionate about building reliable, efficient, and scalable solutions through automation and web development.
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Nikhila9346&color=blue" alt="Profile Views"/>
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Nikhila9346&color=blue)
+I'm a QA Engineer passionate about building reliable, efficient, and scalable solutions through automation and web development.
 
 ---
 
@@ -22,6 +24,11 @@ I'm a QA Engineer passionate about building reliable, efficient, and scalable so
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-0C4B33?style=for-the-badge&logo=django&logoColor=white)
+
+**Version Control**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -45,10 +52,5 @@ I'm a QA Engineer passionate about building reliable, efficient, and scalable so
 
 ## 🤝 Let's Connect
 
-📧 Email: **nikhilabeereddy@gmail.com**  
-🔗 LinkedIn: **https://www.linkedin.com/in/nikhila-reddy-8453a221a/**  
-▶️ YouTube: **https://www.youtube.com/@Githder107g**
-
----
-
-Thanks for stopping by! 😊
+<a href="mailto:nikhilabeereddy@gmail.com">
+  <img src="https://
