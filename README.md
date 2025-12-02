@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Nikhila Reddy  
-### **Software Engineer (QA)**
+
 I'm a QA Engineer passionate about building reliable, efficient, and scalable solutions through automation and web development.
+
 ---
 
 ## 🔧 Tech Stack
@@ -25,16 +26,6 @@ I'm a QA Engineer passionate about building reliable, efficient, and scalable so
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-
-## 🚀 What I Do
-
-- Design & develop automation testing frameworks  
-- Perform API, functional, and end-to-end testing  
-- Write clean, maintainable, and efficient code  
-- Work on personal learning projects and mini apps  
-
----
-
 ## 📈 GitHub Stats
 
 <p align="left">
