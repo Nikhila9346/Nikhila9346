@@ -40,8 +40,9 @@ Git & GitHub
 ## 🤝 Let’s Connect
 
 📫 Email: *nikhilabeereddy.com*  
-🌐 LinkedIn: *your-linkedin-profile*  
-▶️ YouTube: *your-youtube-channel*
+🌐 LinkedIn: *https://www.linkedin.com/in/nikhila-reddy-845a321aa/
+*  
+▶️ YouTube: *https://www.youtube.com/@GlancEd-no7g*
 
 ---
 
