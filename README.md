@@ -2,10 +2,6 @@
 
 I'm a QA Engineer passionate about building reliable, efficient, and scalable solutions through automation and web development.
 
----
-
-## 🔧 Tech Stack
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge)
