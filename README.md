@@ -59,8 +59,9 @@ Git & GitHub
 
 ## 🤝 **Let’s Connect**
 
-📫 Email: *nikhilabeereddy@*  
-🌐 LinkedIn: *your-linkedin-profile*
+📫 Email: *nikhilabeereddy@gmail.com*  
+🌐 LinkedIn: *https://www.linkedin.com/in/nikhila-reddy-845a321aa/
+*
 
 ---
 
